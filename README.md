@@ -1,3 +1,8 @@
+
+# simple attempt to create a song recommendation system
+
+
+---------------------------
 # Readme document for database & ETL Pipeline project:
 =============================================================================================
 ## 1) Purpose: ** The main purpose for create this database (sparkifyDB) is being able to analysis the data inside it after proccessing it using several files and ETL pipeline 'etl.py' **
